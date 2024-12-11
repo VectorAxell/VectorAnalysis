@@ -1,6 +1,6 @@
 # VectorAnalysis
 ## Hi there 👋
-著作権は、溝口貴広にあります。
+著作権は、溝口貴広にあります。このプログラムを改変、リリースすることはいかなることも禁止とする。
 zipを展開するまえにプロパティのセキュリティの□にチェックを入れてください。
 Aspose.Imaging
 OpenCvSharp4.Windows
