@@ -1,6 +1,7 @@
 # VectorAnalysis
 ## Hi there 👋
 著作権は、溝口貴広にあります。このプログラムを改変、リリースすることはいかなることも禁止とする。
+連続的ベクトル解析は現在開発中です。
 zipを展開するまえにプロパティのセキュリティの□にチェックを入れてください。
 Aspose.Imaging
 OpenCvSharp4.Windows
